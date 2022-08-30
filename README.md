@@ -19,3 +19,5 @@ When you run Nextjs with Turbo using the Terminal in VS Code the process never s
 8. Run Nextjs using `yarn turbo:dev` using the terminal inside VS Code.
 9. Quit VS Code.
 10. Check that Nextjs is still running at `http://localhost:3000`.
+
+ps. If you quit the process using CTRL+C in step 9, everything stops as it should.
